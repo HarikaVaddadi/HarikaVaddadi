@@ -8,5 +8,3 @@ Welcome to my profile! I am a student @[IIIT RK Valley](https://www.rguktrkv.ac.
 👯 I’m looking to collaborate on weather prediction projects. 
 
 💬 Ask me about anything, I am glad to help.
-
-📫 How to reach me: [Harika](mailto:harikavaddadi151008@gmail.com)
